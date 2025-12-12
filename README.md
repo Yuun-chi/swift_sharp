@@ -1,2 +1,2 @@
-Swifttt, mototaxi console simulation
-source code ChatJeepPlete/ConsoleApp1/Program.cs
+source code is in this directory  
+ChatJeepPlete/ConsoleApp1/Program.cs
